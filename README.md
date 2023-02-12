@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**tameoo/tameoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, there! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate 👷 Software Developer and 🎓 Computer Science student. I'm currently interested in field of Frontend Development with future focus on FullStask Development.
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+## 🛠 Skills
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,vue,nextjs,nodejs,express,figma,docker&perline=5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tameooo/)
+
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tameooo)
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tameooo13@gmail.com)
+
+[![leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Tameooo/)
