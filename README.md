@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 I'm a passionate 👷 Software Developer and 🎓 Computer Science student. I'm currently interested in field of Frontend Development with future focus on FullStask Development.
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
 ## 🛠 Skills
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,vue,nextjs,nodejs,express,figma,docker)
 
